@@ -22,7 +22,7 @@ link for the digital literacy:-
 
 Module 2 – Student Digital Portfolio For this module, I created professional accounts on GitHub, LinkedIn, and Kaggle. I also completed my GitHub profile README and updated my LinkedIn education details. Screenshots of all profiles were added to the repository along with a reflection on how these platforms will support my learning and career development.
 
-link for Researchgate profile:- 
+link for Researchgate profile:- https://www.researchgate.net/profile/Aarya-Chilkulwar?ev=hdr_xprf
 
 link for linkdin profile:- www.linkedin.com/in/aarya-r-chilkulwar-b6134a3bb
 
